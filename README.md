@@ -4,7 +4,7 @@
 
 # Funções de forma rápida:
 
-+ Pagína serparada por sessões com imagens, textos, botões e ícones.
++ Pagína separada por sessões com imagens, textos, botões e ícones.
 + Está adaptada para diversos dispositivos (Mobile, Desktop ou Tablets).
 + Além do CSS, efeitos inteligentes criados com o Javascript.
 
