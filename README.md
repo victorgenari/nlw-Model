@@ -1,6 +1,6 @@
 # Projeto realizado após a finalização da 'Mission: Origin' "NLW/Together - Rocketseat" :
 
-+ A missão do projeto possui cinco aulas totalizando 8h e 15min. A página fornece layouts reponsivos ao projeto e foram utilizadas as tecnologias HTML, CSS / Javascript.
++ A missão possui cinco aulas totalizando 8h e 15min. A página fornece layouts reponsivos ao projeto e foram utilizadas as tecnologias HTML, CSS / Javascript.
 
 # Funções de forma rápida:
 
